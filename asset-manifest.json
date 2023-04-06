@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/module_7_13/static/css/main.aaaf48ca.css",
+    "main.js": "/module_7_13/static/js/main.be5cb152.js",
+    "index.html": "/module_7_13/index.html",
+    "main.aaaf48ca.css.map": "/module_7_13/static/css/main.aaaf48ca.css.map",
+    "main.be5cb152.js.map": "/module_7_13/static/js/main.be5cb152.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaaf48ca.css",
+    "static/js/main.be5cb152.js"
+  ]
+}
